@@ -5,6 +5,7 @@
 
 # Change Log
 
+* 2021-04-13 Windows Chrome 远程命令执行漏洞
 * 2021-04-13 SonarQube api 信息泄露漏洞 CVE-2020-27986
 * 2021-04-12 浪潮ClusterEngineV4.0 sysShell 任意命令执行漏洞
 * 2021-04-12 金山 V8 终端安全系统 默认弱口令漏洞
