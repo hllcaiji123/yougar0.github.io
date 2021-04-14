@@ -5,6 +5,7 @@
 
 # Change Log
 
+* 2021-04-13 IBOS 数据库模块 任意文件上传漏洞
 * 2021-04-13 Windows Chrome 远程命令执行漏洞
 * 2021-04-13 SonarQube api 信息泄露漏洞 CVE-2020-27986
 * 2021-04-12 浪潮ClusterEngineV4.0 sysShell 任意命令执行漏洞
