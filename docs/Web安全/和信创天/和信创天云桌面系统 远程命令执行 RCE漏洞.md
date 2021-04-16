@@ -42,7 +42,7 @@ Content-Type: image/avif
 
 ![](resource/和信创天云桌面系统-远程命令执行-RCE漏洞/media/1.png)
 
-![](resource/和信创天云桌面系统-远程命令执行-RCE漏洞/media/2.png)
+![](resource/和信创天云桌面系统-远程命令执行-RCE漏洞/media/2.jpg)
 
 ## 漏洞分析
 
